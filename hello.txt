@@ -1,0 +1,79 @@
+<html>
+<head>
+<title>friends</title>
+</head>
+<body bgcolor="red">
+<h1 align="center"><b><u>BIODATA</u></b></h1><br>
+<p align="center">
+<table bgcolor="yellow" border="6" cellpadding="7" cellspacing="8">
+<tr>
+<th colspan="2"><b>NAME</b></th>
+<td colspan="2">PRIYANKA.S</td>
+</tr>
+<tr>
+<th colspan="2"><b>RELIGION</b></th>
+<td colspan="2">HINDU</td>
+</tr>
+<tr>
+<th colspan="2"><b>COMMUNITY</b></th>
+<td colspan="2">NAIR</td>
+</tr>
+<tr>
+<th colspan="2" rowspan="6"><b>ADDRESS</b></th>
+</tr>
+<tr>
+<th colspan="2"><b>STREET</b></th>
+<td colspan="2">THONOORKARA</td>
+</tr>
+<tr>
+<th colspan="2"><b>TOWN</b></th>
+<td colspan="2">CHELAKKARA</td>
+</tr>
+<tr>
+<th colspan="2"><b>DISTRICT</b></th>
+<td colspan="2">THRISSUR</td>
+</tr>
+<tr>
+<th colspan="2"><b>PIN-NO</b></th>
+<td colspan="2">680610</td>
+</tr>
+<tr>
+<th colspan="2"><b>STATE</b></th>
+<td colspan="2">KERALA</td>
+</tr>
+<tr>
+<th colspan="2" rowspan="4"><b>PHONE</b></th>
+</tr>
+<tr>
+<th colspan="2"><b>OFFICE</b></th>
+<td colspan="2">04884-256790</td>
+</tr>
+<tr>
+<th colspan="2"><b>RESIDENCE</b></th>
+<td colspan="2">04884-234589</td>
+</tr>
+<tr>
+<th colspan="2"><b>MOBILE</b></th>
+<td colspan="2">9896775645</td>
+</tr>
+<tr>
+<th colspan="2"><b>EDUCATIONAL QUALIFICATION</b></th>
+</tr>
+<tr>
+<th><b>DEGREE</b></th>
+<th><b>UNIVERSITY</b></th>
+<th><b>INSTITUTE</b></th>
+<th><b>MONTH&YEAR</b></th>
+<th><b>GRADE&MARK</b></th>
+</tr>
+<tr>
+<td>BCA</td>
+<td>BHARATHIAR</td>
+<td>CHINMAYA MISSION COLLEGE</td>
+<td>JULY&2013</td>
+<td>A&79%</td>
+</tr>
+</table>
+</p>
+</body>
+</html>
