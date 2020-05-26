@@ -18,6 +18,11 @@ DATE:19-5-2012<br><br>
 <td><b>2056</b></td>
 <td><b>100</b></td>
 </tr>
+<tr>
+<td><b>Prakash</b></td>
+<td><b>2057</b></td>
+<td><b>200</b></td>
+</tr>
 </table>
 </p>
 </body>
