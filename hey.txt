@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Billing System</title>
+<title>Billing</title>
 </head>
 <body bgcolor="red">
 <h1 align="center"><b><u>BILL-PAYMENT</u></b><h1><br>
