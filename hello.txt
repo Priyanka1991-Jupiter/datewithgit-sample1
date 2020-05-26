@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>My detailed address</title>
+<title>Home town</title>
 </head>
 <body bgcolor="red">
 <h1 align="center"><b><u>BIODATA</u></b></h1><br>
